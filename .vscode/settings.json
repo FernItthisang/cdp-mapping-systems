@@ -1,3 +1,4 @@
 {
-    "markdown-pdf.displayHeaderFooter": false
+    "markdown-pdf.displayHeaderFooter": false,
+    "liveServer.settings.port": 5501
 }
